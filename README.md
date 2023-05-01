@@ -7,3 +7,5 @@ Plataforma de trueques y donaciones Colombiana.
 * Jenny Caterin Cabrejo Marin
 * Adolfo Sánchez Lopéz
 * Nicolás Rojas Concha
+
+<br>
