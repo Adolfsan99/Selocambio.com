@@ -1,4 +1,5 @@
-# Selocambio.com
+# Proyecto - Selocambio.com
+
 Plataforma de trueques y donaciones Colombiana.
 
 # Equipo: Los Inquebrantables
